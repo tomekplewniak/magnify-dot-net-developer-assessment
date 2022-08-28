@@ -5,7 +5,11 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AlgorithmicCoding", "AlgorithmicCoding", "{7A0958E5-C7E4-42E7-A1B8-BDDE8CF40299}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationAtSpeed", "AlgorithmicCoding\MultiplicationAtSpeed\MultiplicationAtSpeed.csproj", "{E7FE35F9-ABC1-45A8-9079-3CF0782D9CB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplicationAtSpeed", "AlgorithmicCoding\MultiplicationAtSpeed\MultiplicationAtSpeed.csproj", "{E7FE35F9-ABC1-45A8-9079-3CF0782D9CB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AssortedBucket", "AssortedBucket", "{82D35A8F-713E-46C8-83DF-7DE3B479C7F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePattern", "AssortedBucket\SimplePattern\SimplePattern.csproj", "{4238342F-5A55-418B-9AA0-E9C9A9724A9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{E7FE35F9-ABC1-45A8-9079-3CF0782D9CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7FE35F9-ABC1-45A8-9079-3CF0782D9CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7FE35F9-ABC1-45A8-9079-3CF0782D9CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4238342F-5A55-418B-9AA0-E9C9A9724A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4238342F-5A55-418B-9AA0-E9C9A9724A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4238342F-5A55-418B-9AA0-E9C9A9724A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4238342F-5A55-418B-9AA0-E9C9A9724A9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E7FE35F9-ABC1-45A8-9079-3CF0782D9CB0} = {7A0958E5-C7E4-42E7-A1B8-BDDE8CF40299}
+		{4238342F-5A55-418B-9AA0-E9C9A9724A9C} = {82D35A8F-713E-46C8-83DF-7DE3B479C7F7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5277F994-7419-478E-A8B2-F0D6EB1BC5F5}
