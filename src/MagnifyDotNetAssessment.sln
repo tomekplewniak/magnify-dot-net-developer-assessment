@@ -26,6 +26,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InDepthChallenges", "InDept
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipperAndCarrierStructure", "InDepthChallenges\ShipperAndCarrierStructure\ShipperAndCarrierStructure.csproj", "{9138B94A-608F-4A1D-8A93-2ABACFBBA5AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipperAndCarrierStructureTests", "InDepthChallenges\ShipperAndCarrierStructureTests\ShipperAndCarrierStructureTests.csproj", "{EFA2560A-9870-4535-BD3A-F6CDBF79C535}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,6 +54,10 @@ Global
 		{9138B94A-608F-4A1D-8A93-2ABACFBBA5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9138B94A-608F-4A1D-8A93-2ABACFBBA5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9138B94A-608F-4A1D-8A93-2ABACFBBA5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA2560A-9870-4535-BD3A-F6CDBF79C535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA2560A-9870-4535-BD3A-F6CDBF79C535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA2560A-9870-4535-BD3A-F6CDBF79C535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA2560A-9870-4535-BD3A-F6CDBF79C535}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,7 @@ Global
 		{F9F1E8AC-F875-4ECD-8372-1A1E13E7A2DC} = {66C25113-2F85-45D4-8467-94EE734BA41F}
 		{D496B8B7-B307-4377-91B5-E6ABD57A3563} = {66C25113-2F85-45D4-8467-94EE734BA41F}
 		{9138B94A-608F-4A1D-8A93-2ABACFBBA5AD} = {8675F04A-A560-4DEA-BB8F-AC834B8CE9BF}
+		{EFA2560A-9870-4535-BD3A-F6CDBF79C535} = {8675F04A-A560-4DEA-BB8F-AC834B8CE9BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5277F994-7419-478E-A8B2-F0D6EB1BC5F5}
